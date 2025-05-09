@@ -1,7 +1,7 @@
 # MU-UniConnect - University Management Platform
 
 <div align="center">
-  <img src="./client/public/img/UNICONNECT.png" alt="UniConnect Logo" width="300"/>
+  <img src="UNICONNECT.png" alt="UniConnect Logo" width="300"/>
   <br>
   <h3>Connecting the Mahindra University Community</h3>
 </div>
