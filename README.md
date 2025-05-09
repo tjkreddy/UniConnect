@@ -1,11 +1,11 @@
 # UniConnect
-# 🚀 MU-UniConnect
+# MU-UniConnect
 
 A comprehensive platform designed for Mahindra University's ecosystem, connecting students, faculty, and club administrators in one unified digital space.
 
 ![UniConnect Banner](client/public/img/UNICONNECT.png)
 
-## 📌 Overview
+## Overview
 
 MU-UniConnect is a full-stack web application built to streamline university communications, event management, faculty appointments, and campus activities. It serves as a central hub for the entire university community with role-specific features and dashboards.
 
@@ -80,7 +80,7 @@ uniconnect/
     └── utils/             # Helper utilities
 ```
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Node.js (v14+ recommended)
@@ -151,7 +151,7 @@ From the root directory, you can start both frontend and backend concurrently:
 npm run dev
 ```
 
-## 📚 API Documentation
+## API Documentation
 
 The server runs on port 9000 by default and provides RESTful API endpoints at `/api/`.
 
@@ -164,7 +164,7 @@ Key API endpoints include:
 - **Events**: `/api/events/` - University events and activities
 - **Campus Highlights**: `/api/campus-highlights/` - Featured campus content
 
-## 🔒 Environment Variables
+## Environment Variables
 
 This project uses environment variables for configuration. Create the following `.env` files:
 
