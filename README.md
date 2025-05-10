@@ -35,11 +35,6 @@ UniConnect is a full-stack platform designed to transform how university communi
 
 Visit our [live demo](https://mu-uniconnect.example.com) (coming soon)
 
-<div align="center">
-  <img src="./docs/screenshots/dashboard-preview.png" alt="Dashboard Preview" width="600"/>
-  <p><i>Dashboard preview (placeholder image)</i></p>
-</div>
-
 ## 📋 Installation
 
 Complete installation instructions available in the [README.md](README.md).
