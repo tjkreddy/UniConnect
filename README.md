@@ -33,7 +33,7 @@ UniConnect is a full-stack platform designed to transform how university communi
 
 ## 🖥️ Demo
 
-Visit our [live demo](https://mu-uniconnect.example.com) (coming soon)
+Visit our [live demo](https://uni-connect.live)
 
 ## 📋 Installation
 
