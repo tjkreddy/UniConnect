@@ -1,7 +1,6 @@
 # Uniconnect - Full-Stack University Connection Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]() <!-- TODO: Add your live demo link here -->
-[![Video Walkthrough](https://img.shields.io/badge/Video-Walkthrough-blue?style=for-the-badge)]() <!-- TODO: Add your video walkthrough link here -->
+[![Live]([https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge](https://www.uni-connect.live))]() <!-- TODO: Add your live demo link here -->
 
 Uniconnect is a comprehensive full-stack web application designed to enhance connectivity and engagement within a university campus. It provides a centralized platform for students, faculty, and administration to access information, manage activities, and interact seamlessly.
 
