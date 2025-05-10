@@ -29,14 +29,12 @@ This project was developed to streamline communication and access to university 
      ![Login Page](docs/screenshots/login.png)
      ![Dashboard](docs/screenshots/dashboard.png)
 -->
-(See `docs/screenshots/` for more)
+
 
 A few highlights:
 
 *   **User-friendly Interface:** Clean and intuitive design for easy navigation.
 *   **Responsive Design:** Fully accessible on desktops, tablets, and mobile devices.
-
-*(Please replace the above with actual descriptions and embedded images from your `/Users/jkreddy/Github Repo/Uniconnect/docs/screenshots/` directory. You already have some images there like `default-profile.png`, `login and signup background.jpg`, `UNICONNECT.png`, `uniconnectTB.png`.)*
 
 ## Key Features
 
