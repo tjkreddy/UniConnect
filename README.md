@@ -84,40 +84,32 @@ This project leverages a modern and robust technology stack:
 *   **Backend:**
     *   Node.js
     *   Express.js (for RESTful APIs)
-    *   (Likely: Mongoose/MongoDB or Sequelize/PostgreSQL for database interaction)
+    *   Mongoose/MongoDB for database interaction)
     *   JWT (JSON Web Tokens) for authentication
 *   **Database:**
-    *   <!-- TODO: Specify your database (e.g., MongoDB, PostgreSQL, MySQL) -->
+    *   MongoDB atlas
 *   **Development & Tools:**
     *   Git & GitHub
     *   VS Code
-    *   (Likely: npm or yarn for package management)
+    *   npm or yarn for package management
+    *   jira
 *   **Deployment:**
-    *   <!-- TODO: Specify your deployment platform (e.g., Heroku, AWS, Vercel, Netlify) -->
+    *   Render
 
-<!-- TODO: You can add badges for your tech stack here. Example:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
--->
+
 
 ## Project Status
 
-<!-- TODO: Update as appropriate -->
-**Status:** Completed / Proof of Concept / Actively Maintained
+**Status:** Actively Maintained
 
 ## Key Learnings & Challenges
-
-<!-- TODO: This is a great section to impress recruiters.
-     - What were the most significant technical challenges you faced? How did you overcome them?
-     - What new technologies or concepts did you learn?
-     - What are you most proud of in this project?
-     Example:
      - Implementing a secure role-based access control system.
      - Optimizing database queries for performance under load.
      - Learning to integrate third-party APIs for [specific functionality].
--->
 
 ## Note on Source Code
 
@@ -125,11 +117,7 @@ The source code for Uniconnect is proprietary and not publicly available in this
 
 ## Author & Contact
 
-<!-- TODO: Add your name and contact information. -->
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **GitHub:** [github.com/yourusername]
+- **Name:** T Jugal Kishore Reddy
 
 ---
 
