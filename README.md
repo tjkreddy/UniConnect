@@ -63,7 +63,7 @@ Uniconnect boasts a rich set of features, including:
      Uniconnect is built using a client-server architecture. The frontend is a single-page application (SPA) that communicates with a RESTful API backend.
 -->
 
-![Architecture Diagram](docs/architecture.png) <!-- Placeholder for your diagram -->
+
 
 The application follows a standard three-tier architecture:
 1.  **Client (Frontend):** Handles user interface and interaction.
